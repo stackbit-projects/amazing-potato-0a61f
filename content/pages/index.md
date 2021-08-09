@@ -11,7 +11,7 @@ sections:
       that you can use on any device.
     actions:
       - label: App Store
-        url: /pricing
+      //  url: /pricing
         style: primary
       - label: Google Play
         url: /pricing
