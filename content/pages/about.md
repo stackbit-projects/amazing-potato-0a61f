@@ -38,7 +38,7 @@ Lee mi blog, es parte de lo que hago y como lo hago.
 
 ![Our team](/images/team.jpg)
 
-## Balance
+## Objetivo
 
  Nuestro objetivo es compartir conocimientos,  para ayudar a mejorar las habilidades de  aquellas personas que sin ser expertos programadores, requieren aplicar herramientas que permitan hacer las cosas de manera más fácil y organizada, haciendo énfasis en la colaboración entre los equipos de trabajo  y la automatización  de tareas desde múltiples dispositivos. 
 
