@@ -8,9 +8,11 @@ sections:
     grid_items:
       - title: Right When You Need It
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >+
+          Este es un sitio donde puedes conseguir sugerencias de soluciones
+          reales a diferentes procesos de negocio
+
+
         content_align: left
         actions:
           - label: Learn More
