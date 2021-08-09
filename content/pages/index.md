@@ -183,7 +183,7 @@ sections:
     title:  Blog Productivo
     subtitle: Que dices?
     actions:
-      - label: View All
+      - label: Ver Todos
         url: /blog
         style: primary
     blog_feed_cols: two
