@@ -27,7 +27,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: On Any Device
+      - title: En un solo sitio
         title_align: left
         content: >+
           Task pro tiene como objetivo ayudarte a mejorar tus habilidades
