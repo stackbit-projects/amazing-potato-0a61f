@@ -29,7 +29,7 @@ seo:
 layout: page
 ---
 
-Hola, soy Diógenes Mata. La tecnología es mi pasión. Tengo más de 18 años diseñando y desarrollando proyectos en entorno web.
+Hola, soy Gustavo Briceño. La tecnología es mi pasión. Tengo más de 18 años diseñando y desarrollando proyectos en entorno web.
 
 WordPress y Moodle son algunos de los entornos web con los que trabajo y que pueden hacer tus ideas realidad.
 
