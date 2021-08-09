@@ -90,7 +90,7 @@ sections:
         media_position: right
         media_width: thirty-three
       - title: “Me siento feliz de poder compartir mis conocimientos.”
-        subtitle: 'Travis Guidelines, Manager at Company'
+        subtitle: 'Gustavo Briceño, Manager at Company'
         image: images/person-2.png
         image_alt: Person 2 photo
         media_position: left
