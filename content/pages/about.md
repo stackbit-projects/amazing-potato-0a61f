@@ -42,7 +42,7 @@ Lee mi blog, es parte de lo que hago y como lo hago.
 
  Nuestro objetivo es poder compartir conocimientos,  para ayudar a mejorar las habilidades de  aquellas personas que sin ser expertos programadores, requieren aplicar herramientas que permitan hacer las cosas de manera más fácil y organizada, haciendo énfasis en la colaboración entre los equipos de trabajo  y la automatización  de tareas desde múltiples dispositivos. 
 
-> "Tasks and deadlines should not control our time. We should control what when to pay attention to which task." -- Lorinda Mamo, Designer
+> "Al que no sabe cualquiera lo engaña, al que no tiene cualquiera lo compra." -- Lorinda Mamo, Designer
 
 
 
