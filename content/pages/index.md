@@ -50,9 +50,9 @@ sections:
         image_position: top
       - title: Smart Notifications
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: |+
+          Agregarle valor a tu trabajo con nuevos conocimientos.
+
         content_align: left
         actions:
           - label: Learn More
