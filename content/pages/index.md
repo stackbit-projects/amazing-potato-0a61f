@@ -103,7 +103,7 @@ sections:
           Stop juggling between calendar apps and productivity tools — from now on all your appointments and meetings appear in one place.
         actions:
           - label: Learn More
-            url: /pricing
+        //    url: /pricing
             style: primary
             has_icon: true
             icon: arrow-right
