@@ -84,7 +84,7 @@ sections:
       - title: >-
           “Me parece genial que exista un sitio donde pueda conseguir
           sugerencias para mejorar mis procesos de negocio!”
-        subtitle: 'Alyvia Cope, Design at Company'
+        subtitle: 'Yesenia Castillo, Design at Company'
         image: images/person-1.png
         image_alt: Person 1 photo
         media_position: right
