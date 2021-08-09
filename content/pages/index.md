@@ -11,10 +11,10 @@ sections:
       that you can use on any device.
     actions:
       - label: App Store
-    //    url: /pricing
+        url: /pricing
         style: primary
       - label: Google Play
-    //    url: /pricing
+        url: /pricing
         style: secondary
     image: images/hero.svg
     image_alt: Hero section placeholder image
@@ -103,7 +103,7 @@ sections:
           Stop juggling between calendar apps and productivity tools — from now on all your appointments and meetings appear in one place.
         actions:
           - label: Learn More
-        //    url: /pricing
+            url: /pricing
             style: primary
             has_icon: true
             icon: arrow-right
@@ -121,7 +121,7 @@ sections:
           one place for easy management.
         actions:
           - label: Take a look
-         //   url: /pricing
+            url: /pricing
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -160,10 +160,10 @@ sections:
       Download App Land now and connect with all your calendars, project management tools and task lists — it doesn't get easier than this!
     actions:
       - label: App Store
-      //  url: /pricing
+        url: /pricing
         style: primary
       - label: Google Play
-      //  url: /pricing
+        url: /pricing
         style: secondary
         has_icon: false
         icon: arrow-left
