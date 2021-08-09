@@ -160,10 +160,10 @@ sections:
       Download App Land now and connect with all your calendars, project management tools and task lists — it doesn't get easier than this!
     actions:
       - label: App Store
-        url: /pricing
+      //  url: /pricing
         style: primary
       - label: Google Play
-        url: /pricing
+      //  url: /pricing
         style: secondary
         has_icon: false
         icon: arrow-left
