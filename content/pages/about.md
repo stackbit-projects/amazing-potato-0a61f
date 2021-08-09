@@ -29,7 +29,13 @@ seo:
 layout: page
 ---
 
-Wse are a team of productivity nuts that love to get stuff done without the stress of time management. We work together to optimize workflows, understand use cases and set up our app to be the most productive and useful tool for us, internally, and for you.
+Hola, soy Diógenes Mata. La tecnología es mi pasión. Tengo más de 18 años diseñando y desarrollando proyectos en entorno web.
+
+WordPress y Moodle son algunos de los entornos web con los que trabajo y que pueden hacer tus ideas realidad.
+
+Lee mi blog, es parte de lo que hago y como lo hago.
+
+Espero verte siempre por aquí .
 
 ![Our team](/images/team.jpg)
 
