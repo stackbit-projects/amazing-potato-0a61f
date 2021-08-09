@@ -46,6 +46,4 @@ Lee mi blog, es parte de lo que hago y como lo hago.
 
 
 
-## We Value Your YOU Time
 
-Our team understands that life is a marathon, and it's super important to make sure you take care of YOU and your needs. This is why we try to remind our users to take time off, reward themselves after a job well done, and put down the phone every once in a while when there's nowhere you have to be, or nothing you need to do.
