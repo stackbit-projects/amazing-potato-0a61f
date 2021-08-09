@@ -30,8 +30,8 @@ sections:
       - title: On Any Device
         title_align: left
         content: >+
-          mejorar tus habilidades profesionales en diferentes entornos de
-          trabajo
+          Task pro tiene como objetivo ayudarte a mejorar tus habilidades
+          profesionales en diferentes entornos de trabajo.
 
 
         content_align: left
