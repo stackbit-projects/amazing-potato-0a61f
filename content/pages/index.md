@@ -29,9 +29,11 @@ sections:
         image_position: top
       - title: On Any Device
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >+
+          Task pro tiene como objetivo ayudarte a mejorar tus habilidades
+          profesionales
+
+
         content_align: left
         actions:
           - label: Learn More
