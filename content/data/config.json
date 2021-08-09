@@ -14,8 +14,8 @@
         "primary_nav_links": [
             {
              //  "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
+             //   "url": "/pricing",
+             //   "style": "link"
             },
             {
                 "label": "About",
