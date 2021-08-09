@@ -49,76 +49,7 @@ layout: post
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](https://lh4.googleusercontent.com/E5O_FRuZV-kX0OzWeA1\_tc3GTXZukR3uDrwyhpBj1cqVsfVVdAMVDj0pup5XdrJ-NiVzNEgspMwsqlua6sMWqncdNmwRXk-piQ78bfKpN3o7zHcF-PG97kXsubUfsM_OVfGEierj)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Caso Práctico No.1.(Talento humano) **
+\*\*Caso Práctico No.1.(Talento humano) \*\*
 
 Supongamos que trabaja como analista de talento humano, en una organización conformada por 20 colaboradores, y debe llevar control en este caso de las solicitudes de permiso, solicitudes de vacaciones, solicitudes de préstamos, solicitud de pago de horas extra, realizadas por los colaboradores;
 
@@ -132,7 +63,7 @@ Supongamos que ya tiene identificado o cómo funciona el proceso de una solicitu
 
 ![](https://lh5.googleusercontent.com/fRYpZ-U4\_G5re6VEma5b8uHe4-RHYimGv6ceA-LHRn9pEQh5UeI0SZW-IxqNK9mJIhnc4VbXTJ7vojdi-8yf68X-grmo3mnSO8xP0PAOZvEkDcLPsM6zuzZkeCeUC7Y451lStMC9)
 
-Lo primero que debemos estar conscientes, es que  esto es un** flujo de trabajo o serie de tareas que producen un resultado,  **y este,** **involucra a 4 entidades distintas que se envían información a través de notificaciones para indicar el estado de dicha solicitud .
+Lo primero que debemos estar conscientes, es que  esto es un\*\* flujo de trabajo o serie de tareas que producen un resultado,  **y este,** \*\*involucra a 4 entidades distintas que se envían información a través de notificaciones para indicar el estado de dicha solicitud .
 
 Llegado a este punto, sí podemos pensar en que herramienta puedo utilizar para simplificar un flujo de trabajo.
 
