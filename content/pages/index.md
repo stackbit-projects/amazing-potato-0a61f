@@ -121,7 +121,7 @@ sections:
           one place for easy management.
         actions:
           - label: Take a look
-            url: /pricing
+         //   url: /pricing
             style: secondary
             has_icon: true
             icon: arrow-right
