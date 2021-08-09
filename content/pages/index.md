@@ -180,7 +180,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: blog_feed_section
-    title: Productivity Blog
+    title:  Blog
     subtitle: What's Up?
     actions:
       - label: View All
