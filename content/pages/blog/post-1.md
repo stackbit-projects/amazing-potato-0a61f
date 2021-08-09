@@ -1,11 +1,13 @@
 ---
 title: When to Put Down your Phone
 subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest.
-date: 2020-04-16
+  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
+  videre, nihil tranquilli potest.
+date: '2020-04-16'
 categories:
   - content/data/categories/tutorials.yaml
   - content/data/categories/general.yaml
+  - content/data/categories/category-4db7un02i.json
 excerpt: >-
   Hey, don't forget about your social life! Real people need real interactions
   and positive facetime with loved ones. Take a page from our book of rules for
@@ -17,28 +19,28 @@ image_alt: Post 1 placeholder image
 image_position: right
 seo:
   title: When to Put Down your Phone
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: article
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: When to Put Down your Phone
       keyName: property
-    - name: og:description
-      value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - name: 'og:description'
+      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/post-5.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: When to Put Down your Phone
-    - name: twitter:description
-      value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - name: twitter:image
+    - name: 'twitter:description'
+      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+    - name: 'twitter:image'
       value: images/post-5.jpg
       relativeUrl: true
 layout: post
