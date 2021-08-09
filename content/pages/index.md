@@ -71,24 +71,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: features_section
-    features:
-      - title: Comprehensive Task List
-        subtitle: Always be in control
-        content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
-        actions:
-          - label: Take a look
-            url: /pricing
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/feature-2.svg
-        image_alt: Feature 2 placeholder image
-        media_position: right
-        media_width: fifty
+    features: []
     feature_padding_vert: large
     align: center
     background_color: none
