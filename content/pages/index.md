@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: grid_section
-    title: What's Great About App Land?
+    title: que tiene de bueno Taskpro?
     subtitle: In a Glance
     align: center
     grid_items:
