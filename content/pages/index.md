@@ -180,8 +180,8 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: blog_feed_section
-    title:  Blog
-    subtitle: What's Up?
+    title:  Blog Productivo
+    subtitle: Que dices?
     actions:
       - label: View All
         url: /blog
