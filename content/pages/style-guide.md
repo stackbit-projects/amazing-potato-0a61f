@@ -1,5 +1,5 @@
 ---
-title: Contacte
+title: Contactenos
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
