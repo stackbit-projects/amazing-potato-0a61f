@@ -1,5 +1,5 @@
 ---
-title: A cerca de mi
+title: Quién Soy
 seo:
   title: About
   description: This is the about us page
