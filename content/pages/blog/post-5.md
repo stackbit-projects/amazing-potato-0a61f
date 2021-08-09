@@ -1,5 +1,5 @@
 ---
-title: Crear sitios alucinantes con Sharpoint Online
+title: Crear sitios alucinantes con SharPoint Online
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
