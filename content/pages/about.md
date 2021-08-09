@@ -29,7 +29,7 @@ seo:
 layout: page
 ---
 
-Hola, soy Gustavo Briceño. Soy un apasionado de los procesos de información. Tengo más de 18 años analizando procesos y probando diversas tecnologias desarrollando proyectos en entorno web.
+Hola, soy Gustavo Briceño. Soy un apasionado de los procesos de información. Tengo más de 18 años analizando procesos y probando diversas tecnologias que permitan 
 
 WordPress y Moodle son algunos de los entornos web con los que trabajo y que pueden hacer tus ideas realidad.
 
