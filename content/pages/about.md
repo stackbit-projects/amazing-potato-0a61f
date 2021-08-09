@@ -42,7 +42,7 @@ Lee mi blog, es parte de lo que hago y como lo hago.
 
  Nuestro objetivo es poder compartir conocimientos,  para ayudar a mejorar las habilidades de  aquellas personas que sin ser expertos programadores, requieren aplicar herramientas que permitan hacer las cosas de manera más fácil y organizada, haciendo énfasis en la colaboración entre los equipos de trabajo  y la automatización  de tareas desde múltiples dispositivos. 
 
-> "Al que no sabe cualquiera lo engaña, al que no tiene cualquiera lo compra" " -- Simón Rodríguez
+> "Al que no sabe cualquiera lo engaña, al que no tiene cualquiera lo compra" -- Simón Rodríguez
 
 
 
