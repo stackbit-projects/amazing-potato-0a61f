@@ -48,7 +48,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: Smart Notifications
+      - title: Valor
         title_align: left
         content: |+
           Agregarle valor a tu trabajo con nuevos conocimientos.
