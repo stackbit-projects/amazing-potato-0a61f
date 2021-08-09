@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: grid_section
-    title: que tiene de bueno Taskpro?
+    title: Que tiene de bueno Taskpro?
     subtitle: In a Glance
     align: center
     grid_items:
