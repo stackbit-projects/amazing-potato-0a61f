@@ -6,7 +6,7 @@ sections:
     subtitle: En tres pasos
     align: center
     grid_items:
-      - title: Right When You Need It
+      - title: Justo a tiempo
         title_align: left
         content: >+
           Este es un sitio donde puedes conseguir sugerencias de soluciones
