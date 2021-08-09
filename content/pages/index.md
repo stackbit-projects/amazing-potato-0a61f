@@ -82,8 +82,8 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Fantastic app for planning your day and future tasks. Works perfectly
-          everyday!”
+          “Me parece genial que exista un sitio donde pueda conseguir
+          sugerencias para controlar mis procesos de negocio!”
         subtitle: 'Alyvia Cope, Design at Company'
         image: images/person-1.png
         image_alt: Person 1 photo
