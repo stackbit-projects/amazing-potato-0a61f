@@ -40,7 +40,7 @@ Lee mi blog, es parte de lo que hago y como lo hago.
 
 ## Work Life Balance
 
-Our goal is for work and life to be controlled in one place, to help you maintain a zen state of mind.
+ Nuestro objetivo es compartir conocimientos,  para ayudar a mejorar las habilidades de  aquellas personas que sin ser expertos programadores, requieren aplicar herramientas que permitan hacer las cosas de manera más fácil y organizada, haciendo énfasis en la colaboración entre los equipos de trabajo  y la automatización  de tareas desde múltiples dispositivos. 
 
 > "Tasks and deadlines should not control our time. We should control what when to pay attention to which task." -- Lorinda Mamo, Designer
 
