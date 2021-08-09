@@ -5,7 +5,7 @@ subtitle: >-
   talento humano, en una organización conformada por 20 colaboradores, y debe
   llevar control en este caso de las solicitudes de permiso, solicitudes de
   vacaciones, solicitudes de préstamos, solicitud de pago de horas extra,
-  realizadas por los colaboradores;
+  realizadas por los colaboradores.
 date: '2020-06-02'
 categories:
   - content/data/categories/tutorials.yaml
