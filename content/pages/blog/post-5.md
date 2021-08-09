@@ -11,10 +11,7 @@ categories:
   - content/data/categories/tutorials.yaml
 tags:
   - content/data/tags/tips.yaml
-excerpt: >-
-  Setting realistic expectations for yourself and your colleagues, putting down
-  your phone for 30 minutes a day, and the "no cellphone in bed" rule  — what's
-  the best way to get to Zen?
+excerpt: "Aquí encontrarás casos prácticos con los que te puedes guiar y ganar nuevas \thabilidades y experiencias, que te van a permitir reforzar tus conocimientos en pro de tu beneficio y de tu organización."
 thumb_image: images/post-1.jpg
 thumb_image_alt: Post 5 placeholder image
 image: images/post-1.jpg
